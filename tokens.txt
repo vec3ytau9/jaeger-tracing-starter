@@ -1,0 +1,2 @@
+# Planning
+Improve error message clarity in low-level functions
